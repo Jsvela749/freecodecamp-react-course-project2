@@ -14,3 +14,6 @@ It's a click counter which uses components, props and states to provide interact
 ![react-project2-1](https://user-images.githubusercontent.com/78876044/230730287-8bf00fb7-f57d-4faf-b8ca-1d6517972ed3.png)
 
 ![react-project2-2](https://user-images.githubusercontent.com/78876044/230730291-3ebfb638-f695-411e-b221-a8cc9476f7c8.png)
+
+# Link
+The site can be visited on GitHub pages on the following URL: https://jsvela749.github.io/freecodecamp-react-course-project2/
